@@ -18,7 +18,7 @@ Example:  3-2=3+(-2)
 
 Read as "A minus B equals A plus negative B".
 
-After this rule is introduced, students do not use the "minus" or "subtract" word.  Everything is addition.
+After this rule is introduced, students do not use the "minus" or "subtract" word.  That statement equals 3 plus negative 2.  "Minus" is a forbidden word.
 
 ### Adding Negative Numbers
 
@@ -26,7 +26,11 @@ Rule:  a+b=b+a
 
 Example:  3+(-2)=(-2)+3
 
-Negative numbers can now be added in any order.  Reinforcement of the negative number addition rule.  "3+(-2)" is the same as "3-2" but we're using extra symbols to turn everything into addition where order of addition doesnt matter.
+Negative numbers can now be added in any order.  Reinforcement of the negative number addition rule.  "3+(-2)" is the same as "3-2" but we're using extra symbols to turn everything into addition, and if everything is addition then the order doesnt matter.
+
+### An Expression is Just the Addition of Terms
+
+
 
 ### Every Term Has a Coefficient
 
