@@ -1,22 +1,47 @@
 # Algebra Basics
 
-## Intermediate Math Notation
+## Math Notation
 
-### Everything is Addition
+### Addition, Lots of Addition
 
-Rule:  a+b=b+a
+*Every* equation is two lists of terms summed up with a comparison operator between them.
 
-3+2=2+3
+These are the most common comparison operators:
 
-Works great for addition.  The Order you add doesn't matter.
+$=\ \gt\ \geq\ \leq\ \lt$
+
+Here's a simple algebraic rule for addition:
+
+$$
+\begin{align} \\
+a+b &= b+a \\
+3+2 &= 2+3
+\end{align}
+$$
+
+Works great for addition.  The *order* doesn't matter.
 
 ### There is No Such Thing as Subtraction
 
-Rule: a-b=a+(-b)
+Here's the rule for "*subtraction*":
 
-Example:  3-2=3+(-2)
+$$
+\begin{align} \\
+a-b&=a+(-b) \\
+3-2&=3+(-2) \\
+\end{align}
+$$
 
-Read as "A minus B equals A plus negative B".
+
+$$
+\begin{align} \\
+a+b &= b+a \\
+3+(-2)&=(-2)+3 \\
+\end{align}
+$$
+
+Read as $a$ minus $b$ equals $a$ plus negative $b$.  *Subtraction* is just adding a negative.  Why is this useful?
+
 
 After this rule is introduced, students do not use the "minus" or "subtract" word.  That statement equals 3 plus negative 2.  "Minus" is a forbidden word.
 
@@ -92,6 +117,35 @@ But $4+-2$ isn't proper notation.
 x+6
 }
 ```
+
+### Symbols, Coefficients, Terms
+
+#### Symbols
+
+Algebra is symbol manipulation.  So what is a symbol?  A mathmatical "symbol" is a number or a variable.
+
+Numeric symbols identify the value they represent.  The number $"3"$ has a value of three.  We grew up with using numbers this way so the defenition of a number seems obvious.
+
+In math, we use letters as variables.  While a number is a _known_ amount, a variable is an _unknown_ amout.  A variable $"x"$ is unknown amount.  If we knew what it was, we would use the number.
+
+#### Coefficients
+
+Every symbol has a coefficient even if we don't see one.  Coefficients are just math symbols multiplied against a variable.  For example:
+
+$$
+\begin{align} \\
+&x = 1 \times x \\
+&x = \frac{1}{1} \times x &&= \frac{x}{1} \\
+\end{align}
+$$
+
+Then there are coefficients used with variables
+
+### Expressions, Equations
+
+
+
+
 
 
 
